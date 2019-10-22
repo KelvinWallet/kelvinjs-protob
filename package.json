@@ -1,6 +1,6 @@
 {
   "name": "kelvinjs-protob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kelvinjs-protob",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
     "index.d.ts"
   ],
   "engines": {
-    "node": ">=10.0.0"
+    "node": "^10"
   },
   "repository": {
     "type": "git",
